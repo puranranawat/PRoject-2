@@ -41,7 +41,7 @@ The full Threat–Vulnerability–Asset mappings are shown in the **TVA_Matrix**
 - **T4 – Insider misuse** affecting Financial Records due to excessive user privileges (Risk = 15, High).  
 - **T6 – Unauthorised access** affecting the Booking Application due to weak authentication (Risk = 16, High).
 
-[View risk assessment spreadsheet](./TVA_Matrix.png)
+![View risk assessment spreadsheet](./TVA_Matrix.png)
 
 ---
 
