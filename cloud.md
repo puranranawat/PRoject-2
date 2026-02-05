@@ -57,7 +57,7 @@ Azure is recommended because:
 ---
 
 Links to cloud provider export files:
-- [AWS](./Aws-estimate)
+- [AWS](./Aws-estimate.csv)
 - [Azure](./azure-estimate.xlsx)
 
 ---
