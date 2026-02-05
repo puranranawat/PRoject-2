@@ -7,7 +7,7 @@ This section gives a cyber security risk assessment for the company and recommen
 
 ## Risk Assessment
 
-[View risk assessment spreadsheet](./risk-assessment.xlsx)
+[View risk assessment spreadsheet](./Truelec_HD_Risk_Assessment.xlsx)
 
 A mini cyber security risk assessment was conducted for the Truelec network using a **Threat–Vulnerability–Asset (TVA)** methodology, consistent with the risk assessment process taught in this unit. The assessment was completed using the provided Excel risk assessment template and follows a structured approach that links each threat to a specific vulnerability and affected asset.
 
@@ -41,7 +41,7 @@ The full Threat–Vulnerability–Asset mappings are shown in the **TVA_Matrix**
 - **T4 – Insider misuse** affecting Financial Records due to excessive user privileges (Risk = 15, High).  
 - **T6 – Unauthorised access** affecting the Booking Application due to weak authentication (Risk = 16, High).
 
-*(Insert screenshots of your TVA_Matrix sheet here, linked from your repository.)*
+[View risk assessment spreadsheet](./TVA_Matrix.png)
 
 ---
 
